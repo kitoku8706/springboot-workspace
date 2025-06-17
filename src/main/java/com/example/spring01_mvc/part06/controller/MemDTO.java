@@ -1,4 +1,4 @@
-package com.example.spring01_mvc.part06.dto;
+package com.example.spring01_mvc.part06.controller;
 
 import javax.print.DocFlavor.STRING;
 
